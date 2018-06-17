@@ -1,7 +1,7 @@
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/gytpet1/Rebelion.git
+> cd Rebelion
 > npm install
 > npm start
 ```
